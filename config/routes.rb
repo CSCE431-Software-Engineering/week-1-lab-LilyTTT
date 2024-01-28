@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root "main#index"
+  root "books#index"
 
   get 'main/index'
 
